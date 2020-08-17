@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Lumbermill",
+        "pack_format": 5,
+        "_comment": "Adds a Lumbermill to create different shaped wood blocks!"
+    }
+}

@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+issueTrackerURL="https://github.com/Chrisoliver345/Lumbermill/issues"
+
+[[mods]]
+modId="lumbermill"
+version="1.0.1"
+displayName="Lumbermill"
+updateJSONURL="https://raw.githubusercontent.com/Chrisoliver345/ModUpdates/master/lumbermill/update.json"
+displayURL="https://github.com/chrisoliver345/Lumbermill"
+logoFile="circular_saw.png"
+credits=""
+authors="ChrisOliver"
+description='Adds a Lumbermill to cut different shapes with wood'
+
+[[dependencies.lumbermill]]
+    modId="forge"
+    mandatory=true
+    versionRange="[31,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.lumbermill]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2,1.16)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,8 @@
+{
+  "type": "lumbermill:lumbermilling",
+  "ingredient": {
+    "tag": "minecraft:planks"
+  },
+  "result": "minecraft:bowl",
+  "count": 1
+}

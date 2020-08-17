@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AIA",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:jungle_planks"
+        },
+        "A": {
+            "item": "minecraft:air"
+        },
+        "I": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "lumbermill:jungle_lumbermill"
+    }
+}
