@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "lumbermill:block/birch_lumbermill"
+        },
+        "facing=south": {
+            "model": "lumbermill:block/birch_lumbermill",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "lumbermill:block/birch_lumbermill",
+            "y": 270
+        },
+        "facing=east": {
+            "model": "lumbermill:block/birch_lumbermill",
+            "y": 90
+        }
+    }
+}

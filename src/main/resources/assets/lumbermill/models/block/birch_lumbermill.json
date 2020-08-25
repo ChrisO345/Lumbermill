@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/stonecutter",
+    "textures": {
+        "particle": "lumbermill:block/birch_lumbermill_bottom",
+        "bottom": "lumbermill:block/birch_lumbermill_bottom",
+        "top": "lumbermill:block/birch_lumbermill_top",
+        "side": "lumbermill:block/birch_lumbermill_side",
+        "saw": "minecraft:block/stonecutter_saw"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "lumbermill:lumbermilling",
+  "ingredient": {
+    "item": "minecraft:jungle_planks"
+  },
+  "result": "minecraft:jungle_sign",
+  "count": 1
+}
